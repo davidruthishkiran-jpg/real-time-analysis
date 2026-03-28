@@ -109,7 +109,7 @@ function Reports() {
     alert("✅ Report saved to localStorage as 'Report'");
   }}
 >
-  ⬇ Download Report
+  ⬇  Report(localStorage)
 </button>
 
       
