@@ -81,7 +81,11 @@ function Analytics() {
 
       {/* INSIGHTS */}
       <div className="analytics-section">
+<<<<<<< HEAD
         <h2>💡 Business Insights</h2>
+=======
+        <h2>Insights</h2>
+>>>>>>> 1014ef7ff1b6914cb9fb0b5007e11de0f79ceccf
         <ul className="insight-list">
           <li>✔ Revenue increased by 12%</li>
           <li>✔ Engagement improved by 8%</li>
