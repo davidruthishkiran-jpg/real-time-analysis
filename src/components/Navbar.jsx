@@ -10,7 +10,7 @@ const Navbar = () => {
     { path: "/analytics", label: "Analytics", icon: "📈" },
     { path: "/reports", label: "Reports", icon: "📄" },
   ];
-
+// updated by 2500031227
   return (
     <nav className="navbar">
       <div className="nav-container">
